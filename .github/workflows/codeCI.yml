@@ -43,4 +43,4 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       - name: Run linter
-        run: npm lint
+        run: npm run lint
